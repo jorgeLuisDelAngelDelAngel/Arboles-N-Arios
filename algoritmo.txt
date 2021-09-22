@@ -1,0 +1,11 @@
+se crear el nodo raiz y se iguala a puntero
+
+metodo
+    si nivel de puntero es menor a total de niveles
+        si puntero no tiene hijos
+            se generar hijos del puntero
+        si puntero tiene hijos
+            puntero apunta desde hijo cero hasta ultimo hijo
+            metodo
+    si no 
+        salir
